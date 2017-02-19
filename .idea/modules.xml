@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyJavaApplication.iml" filepath="$PROJECT_DIR$/MyJavaApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/lib.iml" filepath="$PROJECT_DIR$/lib/lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/linkedlist/linkedlist.iml" filepath="$PROJECT_DIR$/linkedlist/linkedlist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myvolleyapplication/myvolleyapplication.iml" filepath="$PROJECT_DIR$/myvolleyapplication/myvolleyapplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myvolleydemo/myvolleydemo.iml" filepath="$PROJECT_DIR$/myvolleydemo/myvolleydemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/socket/socket.iml" filepath="$PROJECT_DIR$/socket/socket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sort_exercise/sort_exercise.iml" filepath="$PROJECT_DIR$/sort_exercise/sort_exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vip/vip.iml" filepath="$PROJECT_DIR$/vip/vip.iml" />
+    </modules>
+  </component>
+</project>
